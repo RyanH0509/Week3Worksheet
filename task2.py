@@ -1,7 +1,4 @@
 def cal(n):
-    if n < 0:
-      return[]
-
     recaman = [0]   
 
     for k in range(1,n):
